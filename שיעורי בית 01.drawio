@@ -1,0 +1,78 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="‫עמוד-1‬" id="cfO60CE3IcPeD3rmFzoJ">
+    <mxGraphModel dx="872" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; position: relative; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;h2 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.5em; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; border-bottom: 1px solid rgba(209, 217, 224, 0.7);&quot;&gt;שאלה 1&lt;/h2&gt;&lt;a id=&quot;user-content-שאלה-1&quot; class=&quot;anchor&quot; aria-label=&quot;Permalink: שאלה 1&quot; href=&quot;https://github.com/pythonai211225-rgb/07.01.2026/blob/main/hw.md#%D7%A9%D7%90%D7%9C%D7%94-1&quot; style=&quot;box-sizing: border-box; background-color: rgba(0, 0, 0, 0); color: rgb(9, 105, 218); text-decoration: underline; float: left; padding-right: 4px; margin: auto; line-height: 1; position: absolute; top: 19.0938px; left: -28px; display: flex; width: 28px; height: 28px; border-radius: 6px; opacity: 0; justify-content: center; align-items: center; transform: translateY(calc(-50% - 0.3rem)); text-underline-offset: 0.2rem;&quot;&gt;&lt;svg class=&quot;octicon octicon-link&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/div&gt;&lt;p dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;קלוט מספרים&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; font-weight: 600;&quot;&gt;בלולאה&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;עד אשר ייקלט מספר שמתחלק ב־3&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; font-weight: 600;&quot;&gt;ללא שארית&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;לאחר שנקלט מספר תקין – הדפס את המספר&lt;/p&gt;" link="&lt;div class=&quot;markdown-heading&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; position: relative; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;h2 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.5em; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; border-bottom: 1px solid rgba(209, 217, 224, 0.7);&quot;&gt;שאלה 1&lt;/h2&gt;&lt;a id=&quot;user-content-שאלה-1&quot; class=&quot;anchor&quot; aria-label=&quot;Permalink: שאלה 1&quot; href=&quot;https://github.com/pythonai211225-rgb/07.01.2026/blob/main/hw.md#%D7%A9%D7%90%D7%9C%D7%94-1&quot; style=&quot;box-sizing: border-box; background-color: rgba(0, 0, 0, 0); color: rgb(9, 105, 218); text-decoration: underline; float: left; padding-right: 4px; margin: auto; line-height: 1; position: absolute; top: 19.0938px; left: -28px; display: flex; width: 28px; height: 28px; border-radius: 6px; opacity: 0; justify-content: center; align-items: center; transform: translateY(calc(-50% - 0.3rem)); text-underline-offset: 0.2rem;&quot;&gt;&lt;svg class=&quot;octicon octicon-link&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/div&gt;&lt;p dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;קלוט מספרים&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; font-weight: 600;&quot;&gt;בלולאה&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;עד אשר ייקלט מספר שמתחלק ב־3&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; font-weight: 600;&quot;&gt;ללא שארית&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;לאחר שנקלט מספר תקין – הדפס את המספר&lt;/p&gt;" id="4jt0hteKJrH6hrw7NHyd-23">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1">
+            <mxGeometry height="160" width="330" x="490" y="10" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="START" vertex="1">
+          <mxGeometry height="80" width="120" x="333" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-2" edge="1" parent="1" source="UzlZIUMYI-ShvRU6mLMi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UzlZIUMYI-ShvRU6mLMi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-3" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#f8cecc;strokeColor=#b85450;" value="A" vertex="1">
+          <mxGeometry height="60" width="126" x="330" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-4" edge="1" parent="1" source="UzlZIUMYI-ShvRU6mLMi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="no">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="573" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-5" edge="1" parent="1" source="UzlZIUMYI-ShvRU6mLMi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UzlZIUMYI-ShvRU6mLMi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-6" connectable="0" parent="UzlZIUMYI-ShvRU6mLMi-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="yes" vertex="1">
+          <mxGeometry relative="1" x="-0.4811" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="while&amp;nbsp;&lt;div&gt;a%3==0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="353" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-8" edge="1" parent="1" source="UzlZIUMYI-ShvRU6mLMi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UzlZIUMYI-ShvRU6mLMi-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="573" y="540" />
+              <mxPoint x="583" y="540" />
+            </Array>
+            <mxPoint x="583" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-9" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="print(a)" vertex="1">
+          <mxGeometry height="50" width="80" x="533" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-10" edge="1" parent="1" source="UzlZIUMYI-ShvRU6mLMi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-11" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#f8cecc;strokeColor=#b85450;" value="A" vertex="1">
+          <mxGeometry height="60" width="126" x="330" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="stop" vertex="1">
+          <mxGeometry height="80" width="120" x="523" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="344.5" y="720" as="sourcePoint" />
+            <mxPoint x="441.5" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="357" y="710" as="sourcePoint" />
+            <mxPoint x="427" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UzlZIUMYI-ShvRU6mLMi-15" edge="1" parent="1" source="UzlZIUMYI-ShvRU6mLMi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" target="UzlZIUMYI-ShvRU6mLMi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
